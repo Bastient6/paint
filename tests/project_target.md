@@ -1,0 +1,15 @@
+# objectif
+- 1 mettre en palce la gestion de vertex a l'aide de liste chainée
+  - [x] 1.1 créer une structure de donnée pour les vertex
+  - [ ] 1.2 crée differente fonction de gestion de vertex, init_vertex, add_vertex_to_list, remove_vertex_to_list, free_vertex_list
+  - [ ] 1.3 crée une fonction d'affichage de la liste de vertex
+- 2 mettre en place l'overlay pour la gestion des bouton 
+    - [ ] 2.0 créer un dossier pour la gestion de l'overlay
+    - [ ] 2.1 voir certaine idée de design pour que ce soit simple d'usage et rapide de réalisation
+    - [ ] 2.2 crée l'overlay qui va acceuillir les bouton et les textes
+    - [ ] 2.3 crée les bouton et les textes
+    - [ ] 2.4 commencer par essayer de crée la gestion de taille du pinceau
+    - [ ] 2.5 bouton de gestion de couleur des pinceau
+    - [ ] mettre en place le bouton et le raccourci de ctrl-z
+    - [ ] mettre en place le bouton et le raccourci de ctrl-y
+    - [ ] mettre en place le bouton et le raccourci de ctrl-s
